@@ -1,0 +1,5 @@
+https://dilicious-demo.pbminfotech.com/italian-food/
+
+font=poppins,noricans,quicksand
+
+color=#fff,#000,#ffb200,#333,#b80818
